@@ -14,8 +14,10 @@ The results for 2017 got run in 0.09375 seconds. Most of stocks have positive re
 
 The results for 2018 got run in 0.09375 seconds. Most of stocks have negative returns. The top three daily volumes are ENPH, SPWR, and RUN. The bottom three daily volumes are AY, HASI, and DQ. The top two returns are RUN, ENPH, which are positive returns. The rest of the stocks have the negative returns.
 
-![image](2017.png) ![image](2018.png)
-![image](2017 After.png) ![image](2018 After.png)
+![image](2017.png) 
+![image](2018.png)
+![image](2017 After.png) 
+![image](2018 After.png)
 
 
 Summary
