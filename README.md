@@ -16,8 +16,6 @@ The results for 2018 got run in 0.09375 seconds. Most of stocks have negative re
 
 ![image](2017.png) 
 ![image](2018.png)
-![image](2017 After.png) 
-![image](2018 After.png)
 
 
 Summary
