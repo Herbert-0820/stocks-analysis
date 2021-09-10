@@ -5,3 +5,4 @@ Steve’s parents are trying to invest in green energy, such as hydroelectricity
 
 Through refactoring the VBA code, different years have been analyzed. The results of 2017 and 2018 will be a suggestion for Steve’s parents to do the investment with DQ or with another green energy company.
 ![image](2017.png)
+![image](2018.png)
