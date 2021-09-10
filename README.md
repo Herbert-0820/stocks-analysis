@@ -16,3 +16,22 @@ The results for 2018 got run in 0.09375 seconds. Most of stocks have negative re
 
 ![image](2017.png) ![image](2018.png)
 
+
+Summary
+
+The advantages or disadvantage of refactoring code
+
+Advantage:
+Improve the code quality
+Fasten the period
+
+Disadvantages:
+Only can use for replacing certain text
+High quality for original copy of code
+
+
+Apply to refactoring the original VBA script
+For VBA script, there are lots of ways to improve the code quality and make the code more accurate, such as using formula, recording Marco in worksheets, and so on. In this way, the way how we make the code will be faster than before.
+
+However, the original copy should be more flexible and accurate, which is really import. Since the change will be on the base of original copy of VBA code, we should understand the original functions as well.
+
